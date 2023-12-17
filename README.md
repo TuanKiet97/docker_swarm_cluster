@@ -1,3 +1,3 @@
 # The output for practice the cluster
-
-![docker_swarm_demo](https://github.com/TuanKiet97/docker_swarm_cluster/assets/55046864/c9acadff-b638-4934-9ff0-29ea3920a0ae)
+#It uses for studing the docker swarm 
+![2023-12-18_02-20](https://github.com/TuanKiet97/docker_swarm_cluster/assets/55046864/5626e51e-edcd-4db0-8128-ddca9dfc5201)
